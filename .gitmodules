@@ -1,2 +1,3 @@
-[submodule "/passport-authentication"]
-	url = https://github.com/Soul-Xettri/Nestjs-passport-authentication
+[submodule "passport-authentication"]
+    path = passport-authentication
+    url = https://github.com/Soul-Xettri/Nestjs-passport-authentication.git
